@@ -1,5 +1,5 @@
 #include "iostream"
-//#define n 4
+#define n 4
 using namespace std;
 struct student
 {
@@ -111,7 +111,8 @@ void new_mass( student *st, int nn, int g, int &l )
 }
 
 int main()
-{int n=0;
+{int a;
+	int n=0;
 	setlocale(LC_ALL, "rus");
 
 	
