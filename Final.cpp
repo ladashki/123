@@ -1,5 +1,5 @@
 #include "iostream"
-//#define n 4
+#define n 4
 using namespace std;
 struct student
 {
